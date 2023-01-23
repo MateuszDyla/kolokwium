@@ -1,6 +1,4 @@
-package md.soft.controlPanel;
-
-import md.soft.CanvaPanel;
+package md.soft;
 
 import javax.swing.*;
 

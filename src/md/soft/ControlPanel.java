@@ -1,4 +1,4 @@
-package md.soft.controlPanel;
+package md.soft;
 
 import md.soft.CanvaPanel;
 

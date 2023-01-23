@@ -1,8 +1,5 @@
 package md.soft;
 
-import md.soft.controlPanel.ControlPanel;
-import md.soft.controlPanel.MainControlPanel;
-
 import javax.swing.*;
 import java.awt.*;
 
